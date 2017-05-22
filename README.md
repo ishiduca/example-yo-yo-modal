@@ -4,7 +4,7 @@ examples of creating component with yo-yo. (modal component)
 
 ## usage
 
-``js
+```js
 var w = require('global/window')
 var g = require('global/document')
 var yo = require('yo-yo')
@@ -50,7 +50,7 @@ function toggle (e) {
   modal.toggle()
 }
 
-``
+```
 
 ## try example
 

@@ -1,6 +1,6 @@
 {
   "name": "example-yo-yo-modal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "modal.js",
   "scripts": {
@@ -15,6 +15,11 @@
   "keywords": [
     "modal",
     "yo-yo"
+  ],
+  "files": [
+    "example",
+    "modal.js",
+    "README.md"
   ],
   "author": "ishiduca@gmail.com",
   "license": "MIT",

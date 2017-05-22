@@ -52,6 +52,9 @@ function toggle (e) {
 
 ```
 
-## try example
+### try example
 
+```
+$ npm i
 $ npm run build && open example/index.html
+```
